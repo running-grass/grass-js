@@ -1,0 +1,23 @@
+{
+  "name": "grass-js",
+  "version": "0.0.1",
+  "description": "自用的js库",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/running-grass/grass-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "grass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/running-grass/grass-js/issues"
+  },
+  "homepage": "https://github.com/running-grass/grass-js#readme"
+}
